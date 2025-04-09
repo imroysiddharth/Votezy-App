@@ -1,0 +1,24 @@
+# Ignore target directory
+/target
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Build files
+*.jar
+*.war
+
+# IntelliJ specific
+*.ipr
+*.iws
+
+# Maven build folder
+/.mvn
